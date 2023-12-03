@@ -62,4 +62,4 @@ However, we don't need to change anything related to the backend as this worksho
 
 See below the screenshot of the PetSite application.
 
-![api-gateway](https://raw.githubusercontent.com/sheyijojo/aws-re-Invent-2023/main/lab2.1play.gif)
+![api-gateway](https://raw.githubusercontent.com/sheyijojo/aws-re-Invent-2023/main/images/lab2.1play.gif)
