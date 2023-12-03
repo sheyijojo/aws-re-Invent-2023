@@ -63,3 +63,9 @@ However, we don't need to change anything related to the backend as this worksho
 See below the screenshot of the PetSite application.
 
 ![api-gateway](https://raw.githubusercontent.com/sheyijojo/aws-re-Invent-2023/main/images/lab2.1play.gif)
+
+## Lab 4
+
+The last lab uses the backend of PetAdoptions website. The following architecture diagram illustrates the various components of the application that will be used in this workshop.
+
+![api-gateway](https://raw.githubusercontent.com/sheyijojo/aws-re-Invent-2023/main/images/lab4.JPG)
