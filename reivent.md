@@ -12,15 +12,18 @@ https://catalog.workshops.aws/native-cloudwatch-experience/en-US
 
 ReInvent 2023 - Workshop Session - COP306 - Hands-on experience with Amazon CloudWatch and AWS X-Ray
 
-Infrastucture Monitoring
+## Infrastucture Monitoring
+
 While troubleshooting, we will start investigating with built-in Amazon Application Load Balancer metrics. Then will use other powerful tools, such as near-real time log inspection with CloudWatch LiveTail, creating custom metrics from logs by using metric filters in CloudWatch LogGroups.
 
 In this lab, you are the administrator of a 3-tier application. The application is currently experiencing reported performance issues.
 
-The Goal
+## The Goal
+
 As a system administrator, your mission is to pinpoint areas of performance degradation and identify the root causes using Amazon CloudWatch.
 
-How the lab is structured
+## How the lab is structured
+
 As described in the Environment overview, this lab consists of one frontend and two backend services running on EC2 instances, using the Application ELB as the service endpoint for each service and DynamoDB Table as the database.
 
 In terms of development language, all applications are written in Python, but that does not mean you need to be familiar with Python to run this lab.
@@ -34,7 +37,8 @@ In some cases, requests with /dog URL take more than 3 second.
 
 "Requests using the /dog URI intermittently take more than 3 seconds." If this is true, adding percentile statistics(e.g. p90, p95, p99) of response time graph may help to see the trends of 3 second requests. Then we can add relevant alarms.
 
-##worshop 2
+## workshop 2
+
 You can surface insights from best practices, security, fault tolerance, and performance using Amazon Inspector, AWS Config, Service Quotas, AWS Health, AWS Well-Architected Tool, and AWS Trusted Advisor. Join this workshop to learn how to automate these insights intelligently using AWS DevOps and machine learning tools. Also, learn how to use Amazon CloudWatch, AWS Lambda, and AWS ML services. You must bring your laptop to participate.
 
 ## URL LInk
