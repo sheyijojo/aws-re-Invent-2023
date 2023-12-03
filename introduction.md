@@ -48,7 +48,7 @@ In this lab, we will use a sample application, which uses Amazon API Gateway, AW
 
 The application is a simple RESTful API that allows you to list, get, update, and delete. In addition, this application uses a single Lambda function to perform all the CRUD operations.
 
-![api-gateway](https://raw.githubusercontent.com/sheyijojo/aws-re-Invent-2023/main/lab2.0.JPG)
+![api-gateway](https://raw.githubusercontent.com/sheyijojo/aws-re-Invent-2023/main/images/lab2.0.JPG)
 
 Logs and metrics are enabled by default, but we will enable X-Ray tracing and instrument the application to capture traces, in addition,
 
