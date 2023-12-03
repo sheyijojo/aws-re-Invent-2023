@@ -2,7 +2,7 @@
 
 Documentation on all the workshop session at the aws re:Invent 2023 event in Las Vegas
 
-![Alt Text](/aws-re-Invent-2023/assets/wksh1.0.jpg)
+![Alt Text](/aws-re-Invent-2023/images/wksh1.0.jpg)
 ![Cloudwatch](https://raw.githubusercontent.com/sheyijojo/aws-re-Invent-2023/main/assets/wksh1.0.jpg)
 
 https://raw.githubusercontent.com/sheyijojo/aws-re-Invent-2023/main/images/wksh1.0.jpeg
